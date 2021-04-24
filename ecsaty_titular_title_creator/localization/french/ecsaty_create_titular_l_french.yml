@@ -1,0 +1,22 @@
+﻿l_french:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+ecsaty_create_titular.back:0 "Retourner"
+
+
+ecsaty_create_titular:0 "Créer un titre titulaire "
+
+ecsaty_create_titular.0000.t:0 "Choisissez le propriétaire "
+ecsaty_create_titular.0000.desc:0 "#S Qui devrait obtenir le titre?  #!"
+
+ecsaty_create_titular.0000.me:0 "Prends-le pour moi! "
+ecsaty_create_titular.0000.recipient:0 "Accorde-le à [recipient.GetNameNoTooltip]"
+
+
+ecsaty_create_titular.0001.desc:0 "#S Sélectionnez le rang souhaité du titre #!"
+ecsaty_create_titular.0001.t:0 "Rang du titre "
+
+ecsaty_create_titular.0001.duchy:0 "Créer un duché  #!"
+ecsaty_create_titular.0001.kingdom:0 "Créer un royaume"
+ecsaty_create_titular.0001.empire:0 "Créer un empire"

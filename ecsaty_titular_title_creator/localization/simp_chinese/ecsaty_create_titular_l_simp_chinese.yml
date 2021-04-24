@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+ecsaty_create_titular.back:0 "回去 
+"
+
+
+ecsaty_create_titular:0 "创建标题标题 "
+
+ecsaty_create_titular.0000.t:0 "选择所有者 "
+ecsaty_create_titular.0000.desc:0 "#S 谁应该获得头衔？  #!"
+
+ecsaty_create_titular.0000.me:0 "为我自己！ "
+ecsaty_create_titular.0000.recipient:0 "授予它 [recipient.GetNameNoTooltip]"
+
+
+ecsaty_create_titular.0001.desc:0 "#S 选择所需的标题等级  #!"
+ecsaty_create_titular.0001.t:0 "头衔排名 "
+
+ecsaty_create_titular.0001.duchy:0 "创建公国  #!"
+ecsaty_create_titular.0001.kingdom:0 "建立王国 "
+ecsaty_create_titular.0001.empire:0 "建立帝国 "

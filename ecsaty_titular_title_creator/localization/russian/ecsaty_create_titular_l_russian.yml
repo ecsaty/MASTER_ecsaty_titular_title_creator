@@ -1,0 +1,22 @@
+﻿l_russian:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+ecsaty_create_titular.back:0 "Вернитесь назад"
+
+
+ecsaty_create_titular:0 "Создать титульный заголовок "
+
+ecsaty_create_titular.0000.t:0 "Выберите владельца "
+ecsaty_create_titular.0000.desc:0 "#S Кто должен получить титул?  #!"
+
+ecsaty_create_titular.0000.me:0 "Возьми себе! "
+ecsaty_create_titular.0000.recipient:0 "Подарить [recipient.GetNameNoTooltip]"
+
+
+ecsaty_create_titular.0001.desc:0 "#S Выберите желаемый ранг титула  #!"
+ecsaty_create_titular.0001.t:0 "Титул Ранг "
+
+ecsaty_create_titular.0001.duchy:0 "Создать герцогство  #!"
+ecsaty_create_titular.0001.kingdom:0 "Создать королевство "
+ecsaty_create_titular.0001.empire:0 "Создать Империю "

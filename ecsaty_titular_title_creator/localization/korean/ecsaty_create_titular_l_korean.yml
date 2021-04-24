@@ -1,0 +1,22 @@
+﻿l_korean:
+GET_TARGET_TITLE_NAME:0 "[target.GetBaseNameNoTierNoTooltip]"
+GET_TARGET_TITLE_ADJECTIVE:0 "[target.GetAdjectiveNoTooltip]" #not used
+
+ecsaty_create_titular.back:0 "돌아 가기 "
+
+
+ecsaty_create_titular:0 "제목 만들기 "
+
+ecsaty_create_titular.0000.t:0 "소유자 선택"
+ecsaty_create_titular.0000.desc:0 "#S 누가 타이틀을 받아야합니까?  #!"
+
+ecsaty_create_titular.0000.me:0 "T나 자신을 위해 가져 가라! "
+ecsaty_create_titular.0000.recipient:0 "[recipient.GetNameNoTooltip] 부여 "
+
+
+ecsaty_create_titular.0001.desc:0 "#S 원하는 타이틀 순위 선택  #!"
+ecsaty_create_titular.0001.t:0 "타이틀 순위 "
+
+ecsaty_create_titular.0001.duchy:0 "공국 만들기  #!"
+ecsaty_create_titular.0001.kingdom:0 "왕국 만들기 "
+ecsaty_create_titular.0001.empire:0 "제국 만들기 "
