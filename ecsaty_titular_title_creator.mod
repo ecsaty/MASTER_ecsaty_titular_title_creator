@@ -1,4 +1,4 @@
-version="1.0"
+version="1.1"
 tags={
 	"Historical"
 	"Gameplay"
@@ -7,6 +7,6 @@ tags={
 	"Alternative History"
 }
 name="Ecsaty's Titular Title Creator"
-supported_version="1.3.1"
+supported_version="1.4.0"
 path="C:/Users/Elmar/Documents/Paradox Interactive/Crusader Kings III/mod/ecsaty_titular_title_creator"
 remote_file_id="2465139706"
