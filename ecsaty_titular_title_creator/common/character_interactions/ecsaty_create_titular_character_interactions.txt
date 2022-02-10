@@ -36,16 +36,16 @@ ecsaty_create_titular = {
 			if = {
 				limit = {scope:recipient = scope:actor}
 				trigger_event = ecsaty_create_titular.0020
-			} else_if = {
+			}
+			else_if = {
 				limit = {scope:recipient = {
 					primary_title.tier = tier_barony
 				}}
 				trigger_event = ecsaty_create_titular.0001
 			}
-			else {
-				trigger_event = ecsaty_create_titular.0000
-			}
-				
+			else = {
+				trigger_event = ecsaty_create_titular.0100
+			}				
 		}
 	}
 }

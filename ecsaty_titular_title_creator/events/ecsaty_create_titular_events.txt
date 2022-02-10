@@ -1,6 +1,6 @@
 ﻿namespace = ecsaty_create_titular
 
-ecsaty_create_titular.0000 = {
+ecsaty_create_titular.0100 = {
 	type = character_event
 	title = ecsaty_create_titular.0000.t
 	desc = ecsaty_create_titular.0000.desc

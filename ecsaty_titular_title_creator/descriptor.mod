@@ -1,4 +1,4 @@
-version="1.1"
+version="1.2"
 tags={
 	"Historical"
 	"Gameplay"
@@ -7,5 +7,5 @@ tags={
 	"Alternative History"
 }
 name="Ecsaty's Titular Title Creator"
-supported_version="1.4.0"
+supported_version="1.5.0.1"
 remote_file_id="2465139706"
